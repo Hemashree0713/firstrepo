@@ -2,6 +2,7 @@ public class SumOfOddAndEven
 {
     public static void main(String[] args)
     {
+        //i and j are variables
         int i, j, evenSum = 0, oddSum = 0;
         for(i = 0; i <= 20; i++)
             if(i % 2 !=0)
