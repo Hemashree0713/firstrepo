@@ -1,1 +1,1 @@
-# firstrepo
+the repo is about prime numbers
